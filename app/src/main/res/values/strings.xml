@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">水波动画</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ripple_fragment">RippleFragment</string>
+</resources>
