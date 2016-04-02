@@ -1,4 +1,4 @@
-package com.chuang.ripppledemo;
+package com.chuang.rippledemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

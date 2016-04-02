@@ -1,4 +1,4 @@
-package com.chuang.ripppledemo;
+package com.chuang.rippledemo;
 
 import org.junit.Test;
 

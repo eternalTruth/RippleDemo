@@ -11,8 +11,6 @@ import android.util.TypedValue;
 import android.view.View;
 import android.widget.Toast;
 
-import com.chuang.ripppledemo.R;
-
 public class MainActivity extends AppCompatActivity {
 
     private RevealView mLayoutRevealView;

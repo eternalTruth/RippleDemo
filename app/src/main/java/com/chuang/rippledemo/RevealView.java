@@ -8,8 +8,6 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.FrameLayout;
 
-import com.chuang.ripppledemo.R;
-
 
 public class RevealView extends FrameLayout {
     private RevealColorView mRevealColorView;

@@ -17,4 +17,8 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <declare-styleable name="reveal_touch">
+        <attr name="own_touch" format="boolean"/>
+    </declare-styleable>
+
 </resources>
